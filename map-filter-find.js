@@ -25,7 +25,7 @@ console.log(resultArrow);
 /////////////////////////////////////////////////////
 
 // find
-// find function is not return new array. it just return the first element by check 
+// find function do not return new array. it just return the first element by check 
 //given condition from the array
 const getElement = arry.find(function(x){
     return x > 20;
